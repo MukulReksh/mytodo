@@ -1,0 +1,10 @@
+.filter-list-completed {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list-title {
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
